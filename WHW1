@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welcome to My Website</title>
+</head>
+<body>
+
+<header>
+<h1>Welcome to My Website</h1>
+</header>
+
+<section>
+<h2>Numbered List</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<ol>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ol>
+</section>
+
+<section>
+<h2>Address Block</h2>
+<address>
+123 Main Street<br>
+Cityville, State 12345<br>
+<a href="tel:+123456789">Phone: +1 (234) 567-89</a>
+</address>
+</section>
+
+<footer>
+&copy; 2023 My Website
+</footer>
+
+</body>
+</html>
